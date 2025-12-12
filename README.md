@@ -377,7 +377,7 @@ Les contributions sont les bienvenues ! Pour contribuer :
 **AYMEN RAKI**  
 L3 ISEI
 
-📧 [votre.email@example.com](mailto:aymen.raki.cs@example.com)  
+📧 [aymen.raki.cs@gmail](mailto:aymen.raki.cs@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/aymen-raki)  
 🐙 [GitHub](https://github.com/aymenrakics)
 
