@@ -377,9 +377,9 @@ Les contributions sont les bienvenues ! Pour contribuer :
 **AYMEN RAKI**  
 L3 ISEI
 
-📧 [votre.email@example.com](mailto:votre.email@example.com)  
-🔗 [LinkedIn](https://linkedin.com/in/votre-profil)  
-🐙 [GitHub](https://github.com/votre-username)
+📧 [votre.email@example.com](mailto:aymen.raki.cs@example.com)  
+🔗 [LinkedIn](https://linkedin.com/in/aymen-raki)  
+🐙 [GitHub](https://github.com/aymenrakics)
 
 ## 📄 License
 
@@ -392,14 +392,6 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 - [Documentation RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 - [JDBC Tutorial](https://docs.oracle.com/javase/tutorial/jdbc/)
 - [MySQL Documentation](https://dev.mysql.com/doc/)
-
----
-
-## ⭐ Remerciements
-
-Merci aux professeurs et encadrants pour leur accompagnement dans la réalisation de ce projet.
-
-Si ce projet vous a été utile, n'hésitez pas à lui donner une ⭐ !
 
 ---
 
